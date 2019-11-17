@@ -30,10 +30,10 @@ organizations and establishments that support veterans and give them
 benefits/discounts, attach a database to our project, encourage more businesses 
 to partner with us so that there are more rewards for the general public, and 
 encourage people to volunteer.
-* Selection algorithm
-* Improve design/layout
-* Incorporate more non-profit organizations
-* Database
-* Partner with markets to encourage donations
-* Encourage people to volunteer 
+   * Selection algorithm
+   * Improve design/layout
+   * Incorporate more non-profit organizations
+   * Database
+   * Partner with markets to encourage donations
+   * Encourage people to volunteer 
 
