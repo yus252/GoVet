@@ -13,7 +13,7 @@ Pan Yeung, Rickesh Khilnani, Yuling Shi
 population so that action can be taken?
 * What it does: First scan QR code, then collect veteran trading cards to gain 
 points to redeem for rewards!
-* What we learned: 
+* What did we learn: 
    * #breakitdown: organize problems into tractable components and design solutions
    * #purpose: Identify and evaluate underlying goals and the values on which they are based
    * #rightProblem: characterize the nature of the problem 
@@ -21,12 +21,19 @@ points to redeem for rewards!
    * #analogies: use analogy of the baseball trading cards
    * #constraints: time, money, learn skills given time constraint, domain knowledge limited
    * #communicationDesign, #multimedia
-
-
-
-
-
-
-
-
+* What do we have accomplish: We have used Figma to design the User Interface,
+  and react, PHP, WordPress, Bootstrap, CSS, and JavaScript to build the 
+  front-end of the website. 
+* What is the next: Further developing the selection algorithm, improving the 
+design and layout of the website and the cards, incorporate more non-profit 
+organizations and establishments that support veterans and give them 
+benefits/discounts, attach a database to our project, encourage more businesses 
+to partner with us so that there are more rewards for the general public, and 
+encourage people to volunteer.
+* Selection algorithm
+* Improve design/layout
+* Incorporate more non-profit organizations
+* Database
+* Partner with markets to encourage donations
+* Encourage people to volunteer 
 
