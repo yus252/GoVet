@@ -41,3 +41,5 @@ encourage people to volunteer.
 * [GoVet Website](https://vet.awareness.frickin.rocks/)
 * [Scanner Website](https://sandiego.2020.codes/#/)
 * [Youtube Video Demo](https://youtu.be/t-3G-YnBuas)
+* [User Interface MokeUp](https://drive.google.com/file/d/13qTjApASirhLHrTJDR_IbB2H7Cms5iKr/view?usp=sharing)
+* [Devpost](https://devpost.com/software/govet-xnw3fy/joins/ZoszYrlOyljrTGQp6269_Q)
