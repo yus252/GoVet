@@ -35,5 +35,9 @@ encourage people to volunteer.
    * Incorporate more non-profit organizations
    * Database
    * Partner with markets to encourage donations
-   * Encourage people to volunteer 
+   * Encourage people to volunteer
 
+## Links of GoVet
+* [GoVet Website](https://vet.awareness.frickin.rocks/)
+* [Scanner Website](https://sandiego.2020.codes/#/)
+* [Youtube Video Demo](https://youtu.be/t-3G-YnBuas)
